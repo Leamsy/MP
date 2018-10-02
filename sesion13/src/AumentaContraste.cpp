@@ -47,7 +47,7 @@ int main(int argc, char * argv[]){
 		exit(2);
 	}
 
-	//Lectura de cabecera, se duplica en el archivo final
+	//Lectura de cabecera, se duplica en el archivo final.
 	getline(fi, cad);
 	
 
